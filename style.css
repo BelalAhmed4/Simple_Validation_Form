@@ -22,7 +22,7 @@
         }
 
         .form-control input {
-            width: 100%;
+            width: calc(100% - 2rem);
             padding: 0.75rem;
             border: 1px solid #ccc;
             border-radius: 4px;
